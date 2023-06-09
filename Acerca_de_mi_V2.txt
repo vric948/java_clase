@@ -1,0 +1,3 @@
+Hola, este archivo es para poder contar más sobre mi 
+Tengo 28 años
+Quiero aprender JAVA!
